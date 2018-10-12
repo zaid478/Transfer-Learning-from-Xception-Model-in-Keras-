@@ -13,9 +13,10 @@ based on the number of classes we have. In this case, I am assuming 8 classes.
 
 # Important
 Read the code line by line
-The comments are well organized and written to follow
-You need some changes to make it adaptive to your code ! Following the "Comments" will help you out
+The comments are well organized and written to follow.
+
+You need some changes to make it adaptive to your code. Following the "Comments" will help you out
 
 
 # Running the Code
-python transfer_learning.py
+python transfer_learn.py
